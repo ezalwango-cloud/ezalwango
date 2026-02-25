@@ -1,0 +1,44 @@
+/* body{
+    background-color: antiquewhite;
+} */
+
+/* container */
+/* .container{
+    background-color: orange;
+} */
+/* child container */
+.child-container{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+}
+
+/* blue container */
+.blue-container{
+border: blue solid 2px;
+display: flex;
+flex-direction:row;
+justify-content: center;
+
+}
+/* flex items */
+.flex-items{
+    border:brown solid 2px;
+    margin: 5px;
+    height: 20cm;
+    width: 15cm;
+}
+/* mine */
+.mine{
+    color: red;
+}
+/* last container */
+.last{
+    border: 1px green;
+    display: flex;
+}
+/* img */
+.img{
+    width: 30px;
+    align
+}
