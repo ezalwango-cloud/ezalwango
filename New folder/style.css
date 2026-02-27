@@ -28,17 +28,25 @@ justify-content: center;
     height: 20cm;
     width: 15cm;
 }
+
 /* mine */
 .mine{
     color: red;
 }
+
 /* last container */
 .last{
     border: 1px green;
     display: flex;
 }
-/* img */
+
+/* img
 .img{
     width: 30px;
-    align
+    border-radius: 50%;
+    } */
+/* 
+ bootstrap */
+.apples{
+    background-color: red;
 }
